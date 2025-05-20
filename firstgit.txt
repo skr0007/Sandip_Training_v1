@@ -24,3 +24,5 @@ Git dff - difference gtrack of changes of a commit
 Git config --list
 
 git clone main https://github.com/skr0007/Sandip_Training_v1.git
+
+ssh
