@@ -1,0 +1,31 @@
+This is my Fist File.
+
+This is my Fist File.
+
+Install brew
+
+Install git
+
+Git config --global user.name "Sandip Rout"
+Git config --global user.email"sandiprout11@gmail.com"
+
+Git config --list
+
+Git log --author "Sandip Kumar Rout"
+
+Git status - info working dirt of staging aerial
+
+Git add .
+
+Git commit -m "details"
+
+Git dff - difference gtrack of changes of a commit
+
+Git config --list
+
+git clone main https://github.com/skr0007/Sandip_Training_v1.git
+
+
+
+
+ Git log
