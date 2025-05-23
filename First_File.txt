@@ -25,7 +25,41 @@ Git config --list
 
 git clone main https://github.com/skr0007/Sandip_Training_v1.git
 
+Git branch
 
+Git push
+
+Git switch
+
+Git pull
+
+Git merge develop
+
+Git add .
+
+Git status
+
+Git commit
+
+Git push
+
+Git reset --soft <123>
+
+Git reset --hard <123>
+
+Git diff commi 1 commit 2
+
+Git branch
+
+Git branch -a
+
+Git branch <new branch>
+
+Git checkout <branch name>
+
+Git branch -m <old name> <new name>
+
+Git branch d <branch name>
 
 
  Git log
