@@ -61,5 +61,9 @@ Git branch -m <old name> <new name>
 
 Git branch d <branch name>
 
+git switch develop
+
+git diff
+
 
  Git log
