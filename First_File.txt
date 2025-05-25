@@ -60,6 +60,6 @@ Git checkout <branch name>
 Git branch -m <old name> <new name>
 
 Git branch d <branch name>
-
+F
 
 t Git log
