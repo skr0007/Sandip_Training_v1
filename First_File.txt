@@ -62,4 +62,4 @@ Git branch -m <old name> <new name>
 Git branch d <branch name>
 
 
- Git log
+t Git log
